@@ -14,4 +14,4 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 
-limb measure save during raccoon plug decade throw dog happy era
+limb anmeasure save during raccoon plug decad
